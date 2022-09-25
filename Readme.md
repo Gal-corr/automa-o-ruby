@@ -1,1 +1,1 @@
-<h1 align="center"> Automação web Ruby + Cucumber </h1>
+<h1 align="center"> Projeto de automação web Ruby + Cucumber </h1>
